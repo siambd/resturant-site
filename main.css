@@ -1,0 +1,81 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.flex{
+    display: flex;
+    margin-left: 30px;
+    padding-left: 10px;
+}
+.top-banner{
+    background-image:url(image/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.middle-banner{
+    background-image: url(image/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.li-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 174, 0),rgb(137, 241, 0));
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+.menu-image{
+    width: 500px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 50%;
+}
+#img1{
+    border-radius: 10%;
+}
+
+.menu-items{
+    border-radius: 5%;
+    width:30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 10px;
+    padding-right: 20px;
+
+}
+.final-part{
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 10px;
+    padding-right: 20px;
+    margin-top: 40px;
+}
+.final-text{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.menu-text{
+    text-align: center;
+}
+.half-wight{
+    width: 50%;
+}
+#heroeatimg{
+    margin-left: 70px;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+span{
+    color: orange;
+}
+footer p{
+    text-align: center;
+    margin-top:  30px;
+    padding-top: 60px;
+}

@@ -1,0 +1,5 @@
+Dear guests, you are welcomed to dine with us at Good Food restaurant. We will serve you with the mouth watering dishes. Have a pleasant dining experience.
+<div><div class="menu-items">
+        <img class="menu-image" src="image/food/sweet.png" alt="">
+            <p>this is our swweet items, You can order any of them you like.</p>
+        </div>
